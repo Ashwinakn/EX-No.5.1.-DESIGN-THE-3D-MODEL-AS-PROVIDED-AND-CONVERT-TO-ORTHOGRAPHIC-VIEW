@@ -12,6 +12,7 @@ To create orthographic view of given 3D model
 
 ## PROCEDURE:
 
+
 ### STEP-1:
 Open Fusion 360 and select file and click new file
 
@@ -35,7 +36,9 @@ Switch to drawing mode from design mode
 ## INPUT
 ![image](https://user-images.githubusercontent.com/113594316/199408705-ed302b2a-90c3-41c0-9cc4-791a93366e2a.png)
 
-## OUTPUT
+## OUTPUT:
+
+![EX 5 1](https://github.com/Ashwinakn/EX-No.5.1.-DESIGN-THE-3D-MODEL-AS-PROVIDED-AND-CONVERT-TO-ORTHOGRAPHIC-VIEW/assets/152128332/e3955dfc-7484-46b6-8618-d69286fd79ad)
 
 
 ## RESULT:
